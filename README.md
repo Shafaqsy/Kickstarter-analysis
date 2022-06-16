@@ -1,7 +1,7 @@
 # Kickstarter-analysis
 performing analysis on Kickstarter data to uncover trends.
 ## Overview of Project: 
-The purpose of this project is to summarize the data by creating line chart. This project is to help Louise find easily the theater outcomes by Launched date and outcomes based on goals by looking at the pivot table and graphs. This project is be able to visually process outcomes at a glance will be very useful for Louise. The line charts is the quickest way to analyse data without looking at numbers in our table or going through the whole kickstarter sheet.
+The purpose of this project is to summarize the data by creating line chart. This also help Louise find easily the theater outcomes by Launched date and outcomes based on goals by looking at the pivot table and graphs. This visually process outcomes at a glance will be very useful for her past campaigns.. This would help her excute future campaigns that will yeild successful results. 
 ## ANALYSIS
 # Analysis of outcomes based on launch date:
 First, I created a pivot table for theater outcomes by launch date. Click on Insert and then click pivot table. Select the range and choose a new work sheet to create a pivot table. I filtered the parent category and years. Outcomes in my column, months in my rows and outcomes in my value. Chooses a descending order for my row label by clicking the arrow on row labels. 
@@ -36,6 +36,6 @@ There are only 37 Canceled theater campaign out of total 1,369 theater campaign.
 # Conclusion of Outcomes based on Goals:
 If we look at the Outcome based on goal chart. It shows up there’s 0% canceled campaign plays based on our Goal ranges.
 Goal range 45,000 to 49,999 shows that there’s a 100% of failed campaign plays.
-# Limitations:
+limition was only looking at the "plays" subcategory. While I wanted specific insights from the "plays" campaigns, it also would be helpful to compare that information to all campaigns on kickstarter. 
 # Recommendations:
 What are some other possible tables and/or graphs that we could create? We could also find the outcomes based on other columns such as Backers Count. Some possible metrics include (1) success rate per category/subcategory, (2) median, max, and min funding goal/target per category/subcategory, (3) median, max, and min of average donation per category/subcategory. We could also create the Bar chart of theater outcomes by launch date. Also, pie chart can be created to see the results of our outcomes.
